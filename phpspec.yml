@@ -1,0 +1,4 @@
+formatter.name: pretty
+suites:
+    katas_suite:
+        namespace: CodeKata
